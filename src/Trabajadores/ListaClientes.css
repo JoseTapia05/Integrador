@@ -1,0 +1,56 @@
+/* Fondo de página */
+body {
+    background-color: #f0f8ff;/* Cambia esta ruta si quieres usar una imagen */
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+  }
+  
+  /* Título principal */
+  .titulo-principal {
+    font-size: 2.5rem;
+    font-family: 'Georgia', serif;
+    color: #2c3e50;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  /* Tarjetas */
+  .cliente-card {
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .cliente-card:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Títulos de las tarjetas */
+  .titulo-card {
+    font-size: 1.2rem;
+    font-family: 'Arial', sans-serif;
+    color: #fff;
+  }
+  
+  /* Texto de las tarjetas */
+  .texto-card {
+    font-size: 1rem;
+    color: #f1f1f1;
+  }
+  
+  /* Subtítulo para la gráfica */
+  .subtitulo-grafica {
+    font-size: 1.8rem;
+    color: #e74c3c;
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Verdana', sans-serif;
+  }
+  
+  /* Contenedor de la gráfica de pastel */
+  .grafica-pie {
+    width: 50%; /* Reducimos el tamaño de la gráfica */
+    max-width: 400px;
+    margin-top: 20px;
+  }
+  
