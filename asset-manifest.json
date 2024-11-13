@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/JoseTapia05/Integrador/static/css/main.6e72a750.css",
-    "main.js": "/JoseTapia05/Integrador/static/js/main.1afa9646.js",
-    "static/js/453.2accbebf.chunk.js": "/JoseTapia05/Integrador/static/js/453.2accbebf.chunk.js",
-    "static/media/logo.svg": "/JoseTapia05/Integrador/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/JoseTapia05/Integrador/index.html",
-    "main.6e72a750.css.map": "/JoseTapia05/Integrador/static/css/main.6e72a750.css.map",
-    "main.1afa9646.js.map": "/JoseTapia05/Integrador/static/js/main.1afa9646.js.map",
-    "453.2accbebf.chunk.js.map": "/JoseTapia05/Integrador/static/js/453.2accbebf.chunk.js.map"
+    "main.css": "/Integrador/static/css/main.6e72a750.css",
+    "main.js": "/Integrador/static/js/main.5c8638a3.js",
+    "static/js/453.2accbebf.chunk.js": "/Integrador/static/js/453.2accbebf.chunk.js",
+    "static/media/logo.svg": "/Integrador/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Integrador/index.html",
+    "main.6e72a750.css.map": "/Integrador/static/css/main.6e72a750.css.map",
+    "main.5c8638a3.js.map": "/Integrador/static/js/main.5c8638a3.js.map",
+    "453.2accbebf.chunk.js.map": "/Integrador/static/js/453.2accbebf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e72a750.css",
-    "static/js/main.1afa9646.js"
+    "static/js/main.5c8638a3.js"
   ]
 }
