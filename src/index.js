@@ -1,14 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+//import App from './App';
 import reportWebVitals from './reportWebVitals';
 import ListaDocentes from './Trabajadores/Docente';
+import ListaCliente from './Trabajadores/Cliente';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <ListaDocentes />
+    <ListaCliente />
   </React.StrictMode>
 );
 
